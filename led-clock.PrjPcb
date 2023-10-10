@@ -165,7 +165,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DELVIHDE
 
 [Document8]
 DocumentPath=lib\component-library\integrated-circuit.SchLib

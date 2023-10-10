@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=DIN Pin=D1-4
+Added Net: Name=DIN
+Added Pin To Net: NetName=DOUT Pin=D60-2
+Added Net: Name=DOUT
